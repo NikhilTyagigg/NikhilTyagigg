@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NikhilTyagigg
-- 👀 I’m interested in 
+- 👋 Hi, I’m @NikhilTyagi
+- 👀 I’m interested in Java developer
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me send mail me at nikhiltyagi.n17@gmail.com
